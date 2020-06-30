@@ -1,0 +1,7 @@
+{
+  "name": "RITmeet",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
